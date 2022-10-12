@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | Blockchain | Web3 | DevOps
 ------------------------------------------
 
-* ✉️  You can contact me at [imnotdummmy@gmail.com](mailto:imnotdummmy@gmail.com)
+* ✉️  You can contact me at [Hrbzxc.Dev@gmail.com](mailto:Hrbzxc.Dev@gmail.com)
 * 🧠  I'm learning HTML/CSS/JS | ReactJS | VueJS | TailwindCSS
 
 ### Skills
