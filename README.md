@@ -39,10 +39,6 @@ Web Developer | Blockchain | Web3 | DevOps
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/HrbzxcDev"><img src="https://github-readme-stats.vercel.app/api?username=HrbzxcDev&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="HrbzxcDev's GitHub stats" /></a>
-
-<a href="http://www.github.com/HrbzxcDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HrbzxcDev&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 ![](https://github-readme-stats.vercel.app/api?username=hrbzxcdev&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hrbzxcdev&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrbzxcdev&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
