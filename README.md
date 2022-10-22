@@ -39,6 +39,7 @@ Web Developer | Blockchain | Web3 | DevOps
 
 <b>My GitHub Stats</b>
 
-![](https://github-readme-stats.vercel.app/api?username=hrbzxcdev&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hrbzxcdev&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hrbzxcdev&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrbzxcdev&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrbzxcdev&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
