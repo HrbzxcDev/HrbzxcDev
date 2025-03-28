@@ -5,7 +5,7 @@ Web Developer | Blockchain | Web3 | DevOps
 ------------------------------------------
 
 * ✉️  You can contact me at [Hrbzxc.Dev@gmail.com](mailto:Hrbzxc.Dev@gmail.com)
-* 🧠  I'm learning HTML/CSS/JS | ReactJS | VueJS | TailwindCSS
+* 🧠  I'm learning HTML/CSS/JS | ReactJS | NextJS | TailwindCSS
 
 ### Skills
 
