@@ -26,9 +26,6 @@ Web Developer | Blockchain | Web3 | DevOps
 ✉️  You can contact me at [Hrbzxc.Dev@gmail.com](mailto:Hrbzxc.Dev@gmail.com)
 
 
-
-### Badges
-
 <b>My GitHub Stats</b>
 
 ![](https://github-readme-stats.vercel.app/api?username=hrbzxcdev&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
